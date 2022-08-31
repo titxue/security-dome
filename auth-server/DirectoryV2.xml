@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/authentication" title="认证"/>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/authorization" title="授权"/>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/properties" title="项目属性配置"/>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/authentication/controller" title="控制器"/>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/authentication/app" title="应用层"/>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/authentication/domain/client" title="领域防腐对象"/>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/authentication/entity" title="实体类"/>
+     <tree path="/src/main/java/com/titxu/auth/authentication/domain/client" title="领域层防腐对象"/>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/authentication/domain" title="领域层"/>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/authentication/domain/models" title="领域模型"/>
+     <tree path="/auth-server/src/main/java/com/titxu/auth/authentication/infra" title="基础层"/>
+</trees>
