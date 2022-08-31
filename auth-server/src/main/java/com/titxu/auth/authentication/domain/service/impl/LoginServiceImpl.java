@@ -18,7 +18,6 @@ public class LoginServiceImpl implements ILoginService {
 
     @Override
     public String login(LoginCmd loginCmd) {
-        log.info("测试");
         return null;
     }
 }
